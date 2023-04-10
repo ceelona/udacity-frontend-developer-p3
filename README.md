@@ -17,6 +17,5 @@ Start the node server by `node server.js` in the root directory.
 ### Start the app.
 
 Open the wesbite/index.html file in the browser to see the project.
-Or have a look at the GitHub Live view: https://ceelona.github.io/udacity-frontend-developer-p3/
 
 **_Author_**: Jennifer Kümmele
