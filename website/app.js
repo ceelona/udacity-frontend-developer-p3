@@ -49,3 +49,7 @@ const generate = async() => {
 
 const btn = document.getElementById('generate');
 btn.addEventListener('click', generate);
+
+window.addEventListener("load", () => {
+    document.getElementById('today').innerHTML = `Current date: ${newDate}`;
+});
